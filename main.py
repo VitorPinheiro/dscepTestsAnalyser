@@ -4,6 +4,7 @@ import xlsxwriter
 # Falta colocar generico para qualquer quantidade de operadores.
 # Ja ta imprimindo no Excel
 # Falta Plotar os graficos também, talvez podemos plotar dos DFs... mas se for mto complicado, plota no excel mesmo.
+# Falta deixar escrito no excel o total de demora do processamento tb (soma de todas as janelas de um operador)
 
 # Entradas do script
 number_of_operators = 1
